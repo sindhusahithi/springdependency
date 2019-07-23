@@ -1,1 +1,1 @@
-# springdependency
+# Hibernate(one-one)
